@@ -1,7 +1,7 @@
-homepage: "https://tvty.tv/"
+homepage: "https://tvtm.tv/"
 documentation: "https://tvty.notion.site/TV-Retargeting-by-TVTY-onboarding-documentation-489a914b2e5b490e981f6db494603f91"
 versions:
   # Latest version
-  - sha: bef5b7938cc5e8ae9e3430f07f4ee7e70d96ff14
+  - sha: 1dc5341e1bd9fcd164b245203e83bd2261f6e621
     changeNotes: Initial release.
   # Older versions
